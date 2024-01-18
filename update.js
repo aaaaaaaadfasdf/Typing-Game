@@ -4,7 +4,7 @@ let timeCurser =0
 
 update();
 
-
+//this is a change
 function update() {
 
   timeCurser += timeSec
